@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MDU-PHL Bioinformatics\n\n\nThis site contains documentation for those doing bioinformatics work at MDU\nPHL. It is written using \nMkDocs\n.\n\n\nSource code\n\n\nGithub\n\n\nProject management\n\n\nMeisterTask\n\n\nCommunications\n\n\nSlack", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mdu-phl-bioinformatics", 
+            "text": "This site contains documentation for those doing bioinformatics work at MDU\nPHL. It is written using  MkDocs .", 
+            "title": "Welcome to MDU-PHL Bioinformatics"
+        }, 
+        {
+            "location": "/#source-code", 
+            "text": "Github", 
+            "title": "Source code"
+        }, 
+        {
+            "location": "/#project-management", 
+            "text": "MeisterTask", 
+            "title": "Project management"
+        }, 
+        {
+            "location": "/#communications", 
+            "text": "Slack", 
+            "title": "Communications"
+        }, 
+        {
+            "location": "/hw/servers/", 
+            "text": "", 
+            "title": "Servers"
+        }, 
+        {
+            "location": "/hw/vlsci/", 
+            "text": "", 
+            "title": "VLSCI"
+        }, 
+        {
+            "location": "/hw/nectar/", 
+            "text": "", 
+            "title": "Nectar"
+        }, 
+        {
+            "location": "/data/folders/", 
+            "text": "", 
+            "title": "Folders"
+        }, 
+        {
+            "location": "/data/reads/", 
+            "text": "", 
+            "title": "Reads"
+        }, 
+        {
+            "location": "/data/genomes/", 
+            "text": "", 
+            "title": "Genomes"
+        }, 
+        {
+            "location": "/sw/mdutools/", 
+            "text": "", 
+            "title": "MDU Tools"
+        }, 
+        {
+            "location": "/sw/spades/", 
+            "text": "", 
+            "title": "Spades"
+        }, 
+        {
+            "location": "/sw/nullarbor/", 
+            "text": "", 
+            "title": "Nullarbor"
+        }
+    ]
+}
