@@ -1,0 +1,20 @@
+site_name: MDU-PHL Bioinformatics
+site_description: Documentation for working on MDU-PHL servers
+site_author: Torsten Seemann, Anders da Silva Goncalves
+theme: cerulean
+extra_css:
+    - css/mdu-phl.css
+pages:
+- Home: index.md
+- Hardware:
+    - Servers: hw/servers.md
+    - VLSCI: hw/vlsci.md    
+    - Nectar: hw/nectar.md    
+- Data:
+    - Folders: data/folders.md
+    - Reads: data/reads.md
+    - Genomes: data/genomes.md
+- Software:
+    - "MDU Tools": sw/mdutools.md
+    - Spades: sw/spades.md
+    - Nullarbor: sw/nullarbor.md
