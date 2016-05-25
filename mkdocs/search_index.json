@@ -2,28 +2,48 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MDU-PHL Bioinformatics\n\n\nThis site contains documentation for those doing bioinformatics work at MDU\nPHL. It is written using \nMkDocs\n.\n\n\nSource code\n\n\nGithub\n\n\nProject management\n\n\nMeisterTask\n\n\nCommunications\n\n\nSlack", 
+            "text": "Getting started at MDU\n\n\nGet an account\n\n\n\n\nSee Simon Gleeson (MDU I.T) and ask him to create an MDU account for you.\n\n\nYour login will be your University THEMIS username and password.\n\n\n\n\nLog in to the server\n\n\nYou need to login using SSH (Secure Shell).\n\n\nOS X\n\n\nYou will need to install the \nXQuartz\n package.\nUse the \nTerminal\n app and type \nssh -X -Y username@marvin.mdu.unimelb.edu.au\n\nand enter your password when prompted.  \n\n\nWindows\n\n\nYou will need to install the \nPutty\n and the\n \nXMing\n packages, then enable\n \nX11 Forwarding\n in Putty.\nInstall the \nPutty\n app and use \nmarvin.mdu.unimelb.edu.au\n as the Hostname.\n\n\nTest if it works\n\n\nType \nls /\n and you should see this:\n\n\nbin  bio  boot  dev  etc  home  lib  lib64  lost+found  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var\n\n\n\n\nTo see if graphical applications work:\n\n\nxeyes -geometry 500x500\n\n\n\n\nYou should see a big window appear with two eyes following your mouse cursor.\n\n\nJoin our online services\n\n\nAsk someone to add you to:\n\n MDU Google Calendar\n\n Doherty Genomics maling list\n\n Doherty Genomics Software mailing list\n\n MDU Bioinformatics Comms: https://mduphl.slack.com\n\n MDU Bioinformatics Project Management: https://www.meistertask.com/app/project/tvUk2Mhs/\n\n MDU Github: https://github.com/MDU-PHL\n\n\nRegular meetings\n\n\n\n\nLab group: Monday 11:00-12:00\n\n\nBioinformatics Clinic: Monday 12:30-13:30", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mdu-phl-bioinformatics", 
-            "text": "This site contains documentation for those doing bioinformatics work at MDU\nPHL. It is written using  MkDocs .", 
-            "title": "Welcome to MDU-PHL Bioinformatics"
+            "location": "/#getting-started-at-mdu", 
+            "text": "", 
+            "title": "Getting started at MDU"
         }, 
         {
-            "location": "/#source-code", 
-            "text": "Github", 
-            "title": "Source code"
+            "location": "/#get-an-account", 
+            "text": "See Simon Gleeson (MDU I.T) and ask him to create an MDU account for you.  Your login will be your University THEMIS username and password.", 
+            "title": "Get an account"
         }, 
         {
-            "location": "/#project-management", 
-            "text": "MeisterTask", 
-            "title": "Project management"
+            "location": "/#log-in-to-the-server", 
+            "text": "You need to login using SSH (Secure Shell).", 
+            "title": "Log in to the server"
         }, 
         {
-            "location": "/#communications", 
-            "text": "Slack", 
-            "title": "Communications"
+            "location": "/#os-x", 
+            "text": "You will need to install the  XQuartz  package.\nUse the  Terminal  app and type  ssh -X -Y username@marvin.mdu.unimelb.edu.au \nand enter your password when prompted.", 
+            "title": "OS X"
+        }, 
+        {
+            "location": "/#windows", 
+            "text": "You will need to install the  Putty  and the\n  XMing  packages, then enable\n  X11 Forwarding  in Putty.\nInstall the  Putty  app and use  marvin.mdu.unimelb.edu.au  as the Hostname.", 
+            "title": "Windows"
+        }, 
+        {
+            "location": "/#test-if-it-works", 
+            "text": "Type  ls /  and you should see this:  bin  bio  boot  dev  etc  home  lib  lib64  lost+found  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var  To see if graphical applications work:  xeyes -geometry 500x500  You should see a big window appear with two eyes following your mouse cursor.", 
+            "title": "Test if it works"
+        }, 
+        {
+            "location": "/#join-our-online-services", 
+            "text": "Ask someone to add you to:  MDU Google Calendar  Doherty Genomics maling list  Doherty Genomics Software mailing list  MDU Bioinformatics Comms: https://mduphl.slack.com  MDU Bioinformatics Project Management: https://www.meistertask.com/app/project/tvUk2Mhs/  MDU Github: https://github.com/MDU-PHL", 
+            "title": "Join our online services"
+        }, 
+        {
+            "location": "/#regular-meetings", 
+            "text": "Lab group: Monday 11:00-12:00  Bioinformatics Clinic: Monday 12:30-13:30", 
+            "title": "Regular meetings"
         }, 
         {
             "location": "/hw/servers/", 
