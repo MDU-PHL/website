@@ -1,7 +1,7 @@
 site_name: MDU-PHL Bioinformatics
 site_description: Documentation for working on MDU-PHL servers
 site_author: Torsten Seemann, Anders Goncalves da Silva
-theme: readthedocs
+theme: mkdocs
 extra_css:
     - css/mdu-phl.css
 pages:
